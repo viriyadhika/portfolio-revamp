@@ -91,7 +91,7 @@ function Hello() {
               className="align-items-center justify-content-center" >
               <p style={{ textAlign: 'start', wordWrap: 'break-word' }}>
                 Welcome to my website. This website is a showcase of some of my works that I am really proud of.
-              For reference, you can take a look at my <a class="hyperlink" href="https://drive.google.com/file/d/1sS5WYmEX2KUDKK02IIhWWfmQa0DfIcE7/view?usp=sharing">Resume</a>, my
+              For reference, you can take a look at my <a class="hyperlink" href="https://drive.google.com/file/d/1jr7o0zzgQmKshv8M5F5oirxeQ0GrPKWc/view?usp=sharing">Resume</a>, my
               <a class="hyperlink" href="https://sg.linkedin.com/in/viriyadhika-putra"> LinkedIn</a> profile, and my
               <a class="hyperlink" href="https://github.com/viriyadhika"> GitHub</a> account.
               Also, feel free to contact me at viriya.dhika0@gmail.com!
